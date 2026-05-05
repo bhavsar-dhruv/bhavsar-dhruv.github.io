@@ -244,7 +244,7 @@ function Footer() {
           <Github size={20} />
         </a>
         {/* Replace this URL with your actual LinkedIn profile link */}
-        <a href="www.linkedin.com/in/dhruvnbhavsar" target="_blank" rel="noopener noreferrer" className="hover:text-neutral-900 dark:hover:text-neutral-100 transition-colors">
+        <a href="https://www.linkedin.com/in/dhruvnbhavsar" target="_blank" rel="noopener noreferrer" className="hover:text-neutral-900 dark:hover:text-neutral-100 transition-colors">
           <Linkedin size={20} />
         </a>
       </div>
